@@ -10,7 +10,7 @@ I'm a young, diligent and enthusiastic frontend developer. I'm passionate about 
 - 💡 Fun fact: I'm currently studying Frontend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript and Reactjs
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing ariyomuqadas@gmail.com.
 
 ---
